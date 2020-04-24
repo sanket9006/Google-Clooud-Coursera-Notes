@@ -1,8 +1,8 @@
 # Google-Clooud-Coursera-Notes
 
 
-# Managed Instance Groups
 
+## <p align="center">  Managed Instance Groups</p>
 
 A managed instance group is a collection of identical virtual machine instances that you control as a single entity using an instance template. You can easily update all the instances in the group by specifying a new template in a rolling update.
 
