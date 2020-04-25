@@ -1,7 +1,6 @@
 # Google Clooud Coursera Notes
 
-## <p align="center">Elastic Google Cloud Infrastructure: Scaling and Automation
-Week 1 : Module Review </p>
+## <p align="center">Elastic Google Cloud Infrastructure: Scaling and Automation : Week 1 : Module Review </p>
 
 
 In this module, we looked at the different types of load balancers that are available in GCP along with the managed instance groups and auto-scaling. You will able to apply most of the covered services and concepts by working through the two labs of this module. We also discussed the criteria for choosing between the different load balancers and looked at a flowchart and summary table to help you pick the right load balancers. Remember, sometimes it's useful to combine an internal and external load balancer to support three tier web services.
