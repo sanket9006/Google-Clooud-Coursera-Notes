@@ -1,6 +1,7 @@
 # Google Clooud Coursera Notes
 
-
+## <p align="center"> Overview of HTTP(S) load balancing </p>
+HTTP requests are load balanced on port 80 or 8080, and HTTPS requests are load balanced on port 443.
 
 ## <p align="center">  Managed Instance Groups</p>
 
