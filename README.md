@@ -5,8 +5,8 @@
 
 let me help you determine which load balancer best meets your need. One differentiator between the different GCP load balancers is the support for IPv6 clients. Only the HTTPS, SSL proxy, and TCP proxy load balancing services support IPV6 clients
 
+![image](https://github.com/sanket9006/Google-Clooud-Coursera-Notes/blob/master/Capture.PNG)
 
-https://github.com/sanket9006/Google-Clooud-Coursera-Notes/blob/master/Capture.PNG
 
 
 
