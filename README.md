@@ -2,6 +2,8 @@
 
 ## <p align="center"> Overview of HTTP(S) load balancing </p>
 HTTP requests are load balanced on port 80 or 8080, and HTTPS requests are load balanced on port 443.
+he backend services contain a health check, session affinity, a timeout setting, and one or more backends. A health check pulls instances attached to the backend service at configured intervals. Instances that pass the health check are allowed to receive new requests. Unhealthy instances are not sent requests until they are healthy again. Normally, HTTPS load balancing uses a round robin algorithm to distribute requests among available instances.
+             If there are no healthy instances, with available capacity in a given region, the load balancer instead sends the request to the next closest region with available capacity. Therefore, traffic from the EMEA user, could be forwarded to the US Central 1-a back-end, if the Europe West 1-d back-end does not have capacity, or has no healthy instances as determined by the health checker. This is referred to as cross-region load balancing.
 
 ## <p align="center">  Managed Instance Groups</p>
 
