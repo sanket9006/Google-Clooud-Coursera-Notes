@@ -1,8 +1,5 @@
 # Google Clooud Coursera Notes
 
-## <p align="center">Week 2 Module Overview </p>
-
-Deployment manager uses a system of highly structured templates and configuration files to document the infrastructure in an easily readable and understandable format. Deployment manager conceals the actual Cloud API calls. So you don't need to write code and can focus on the definition of the infrastructure. In this module, we cover how to use deployment manager to automate the deployment of infrastructure, and how to use GCP marketplace to launch infrastructure solutions.
 
 ## <p align="center">Deployment Manager</p>
 
@@ -15,6 +12,10 @@ Deployment Manager takes this one step further. Deployment Manager is an infrast
  Lab Intro: Automating the Infrastructure of Networks Using Deployment Manager or Terraform
 
 In this lab we're giving you two choices. You can deploy resources by using Deployment Manager or Terraform. Either way, you deploy an automotive network called my network with a firewall rule to allow HTTP, SSH, RDP, and ICMP traffic. You also deploy the VM instances shown in this network diagram. Again, you have the choice of deploying these resources with Deployment Manager or Terraform through two separate labs. You can complete either lab or even both.
+
+## <p align="center">Week 2 Module Overview </p>
+
+Deployment manager uses a system of highly structured templates and configuration files to document the infrastructure in an easily readable and understandable format. Deployment manager conceals the actual Cloud API calls. So you don't need to write code and can focus on the definition of the infrastructure. In this module, we cover how to use deployment manager to automate the deployment of infrastructure, and how to use GCP marketplace to launch infrastructure solutions.
 
 ## <p align="center">Elastic Google Cloud Infrastructure: Scaling and Automation </p>
 
