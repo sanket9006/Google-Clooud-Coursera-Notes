@@ -3,17 +3,27 @@
 Validate your hands-on GCP skills and advance your career with the Associate Cloud Engineer certification. Certification can help you gain credibility and give you an advantage in today’s highly competitive market. The Associate Cloud Engineer certification is for individuals who want to demonstrate their ability to deploy applications, monitor operations, and maintain cloud projects on Google Cloud Platform. It is recommended that you have at least 6 months of hands-on experience working with GCP. The exam will assess your ability to:
 
 Set up a cloud solution environment
+
 Plan and configure a cloud solution
+
 Deploy and implement a cloud solution
+
 Ensure successful operation of a cloud solution
+
 Configure access and security
+
 I recommend broadening your knowledge by completing the following Qwiklabs Self-Paced Labs, which are single-topic hands-on activities; and Qwiklabs Quests, which are groups of self-paced labs on a focused theme:
 
 Quest: Kubernetes in the Google Cloud
+
 Quest: Google Kubernetes Engine Best Practices
+
 Self-Paced Lab: Cloud Functions - Qwik Start
+
 Self-Paced Lab: Deploying the Application into App Engine Flexible Environment - Java OR Deploying the Application into App Engine Flexible Environment - Python
+
 To help you structure your preparation for the Associate Cloud Engineer exam, we recommend the Preparing for the Associate Cloud Engineer Examination course.
+
 
 You can also prepare using the Official Google Cloud Certified Associate Cloud Engineer Study Guide, published by Wiley. Visit the Google Cloud Certification website for more information and to register.
 
