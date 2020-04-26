@@ -1,5 +1,48 @@
 # Google Clooud Coursera Notes
 
+Validate your hands-on GCP skills and advance your career with the Associate Cloud Engineer certification. Certification can help you gain credibility and give you an advantage in today’s highly competitive market. The Associate Cloud Engineer certification is for individuals who want to demonstrate their ability to deploy applications, monitor operations, and maintain cloud projects on Google Cloud Platform. It is recommended that you have at least 6 months of hands-on experience working with GCP. The exam will assess your ability to:
+
+Set up a cloud solution environment
+Plan and configure a cloud solution
+Deploy and implement a cloud solution
+Ensure successful operation of a cloud solution
+Configure access and security
+I recommend broadening your knowledge by completing the following Qwiklabs Self-Paced Labs, which are single-topic hands-on activities; and Qwiklabs Quests, which are groups of self-paced labs on a focused theme:
+
+Quest: Kubernetes in the Google Cloud
+Quest: Google Kubernetes Engine Best Practices
+Self-Paced Lab: Cloud Functions - Qwik Start
+Self-Paced Lab: Deploying the Application into App Engine Flexible Environment - Java OR Deploying the Application into App Engine Flexible Environment - Python
+To help you structure your preparation for the Associate Cloud Engineer exam, we recommend the Preparing for the Associate Cloud Engineer Examination course.
+
+You can also prepare using the Official Google Cloud Certified Associate Cloud Engineer Study Guide, published by Wiley. Visit the Google Cloud Certification website for more information and to register.
+
+Good luck!
+## <p align="center">GCP Marketplace</p>
+
+GCP marketplace lets you quickly deploy functional software packages that run on GCP. Essentially, GCP marketplace offers production grade solutions from third-party vendors who have already created their own deployment configurations based on Deployment Manager. These solutions are built together with all of your projects GCP services. If you already have a license for a third party service, you might be able to use a Bring Your Own License solution. You can deploy a software package now and scale that deployment later when your applications require additional capacity. GCP even updates the images of these software packages to fix critical issues and vulnerabilities but doesn't update software that you have already deployed. You even get direct access to partner support.
+
+ A LAMP stack consists of Linux, Apache HTTP Server, MySQL, and PHP
+
+## <p align="center">Module Review</p>
+
+In this module, we automated the deployment of Infrastructure using Deployment Manager and Terraform and launched the Infrastructure solutions using GCP marketplace. Now, you might say that going through all the effort to deploy a network, firewalls rule, and the two Virtual Machine instances doesn't convince you to use Deployment Manager or Terraform. That's true if you only need to create these resources once and don't foresee ever creating them again. However, for those of us who manage several resources and need to deploy, update, and destroy them in a repeatable way Infrastructure Automation tools like Deployment Manager and Terraform become essential.
+
+
+
+
+## <p align="center">BigQuery</p>
+
+BigQuery is GCP's serverless, highly scalable, and cost effective Cloud data warehouse. It's a petabyte scale data warehouse that allows for super-fast queries using the processing power of Google's infrastructure. Because there's no infrastructure for you to manage, you can focus on uncovering meaningful insights using familiar SQL, without the need for the database administrator. BigQuery is used by all types of organizations, and there's a free usage tier to help you get started. For more information, see the links section of this video. You can access BigQuery by using the GCP console, by using the command line tool, or by making calls to the BigQuery REST API, using the variety of client libraries such as Java,.NET or Python. There are also several third-party tools that you can use to interact with BigQuery, such as visualizing the data, or loading the data. Here's an example of a query on the table with over 100 billion rows. This query processes over 4.1 terabyte, but takes less than a minute to execute. The same query would take hours if not days through a serial execution.
+
+
+## <p align="center">Cloud Dataproc</p>
+
+Let's learn a little bit about Cloud Dataproc. Cloud Dataproc is a fast easy to use fully managed Cloud service for running Apache Spark and Apache Hadoop clusters in a simpler way. You only pay for the resources you use with per second billing. If you leverage preemptible instances in your cluster, you can reduce your costs even further. Without using Cloud Dataproc, it can take from five to 30 minutes to create Spark and Hadoop clusters On-premise or through other infrastructure as a service providers. Cloud Dataproc clusters are quick to start, scale, and shut down with each of these operations taking 90 seconds or less on average. This means you can spend less time waiting for clusters and more hands-on time working with your data. Cloud Dataproc has built-in integration with other GCP services such as BigQuery, Cloud Storage, Cloud Bigtable, Stackdriver Logging, and Stackdriver monitoring. This provides you with the complete data platform rather than just a Spark or Hadoop cluster. As a managed service, you can create clusters quickly, manage them easily, and save money by turning clusters off when you don't need them. With less time and money spent on administration, you can focus on your jobs and your data. If you're already using Spark, Hadoop, Pig or Hive you don't even need to learn new tools or API's is to use Cloud Dataproc. This makes it easy to move existing projects into Cloud Dataproc without redevelopment. Now, Cloud Dataproc and Cloud Dataflow can both be used for data processing, and there's overlap in their batch and streaming capabilities. So how do you decide which product is a better fit for your environment? But first ask yourself whether you have dependencies on specific tools or packages in the Apache Hadoop or Spark ecosystem. If that's the case, you'll obviously want to use Cloud Dataproc. If not, ask yourself whether you prefer a hands-on or DevOps approach to Operations or a hands-off or serverless approach. If you opt for the DevOps approach, you want to use Cloud Dataproc. Otherwise, use Cloud Dataflow.
+
+
+In this module, we provided you with an overview of managed services for data processing in GCP, namely BigQuery Cloud Dataflow, Cloud Dataprep, and Cloud Dataproc. Managed services allow you to outsource a lot of the administrative and maintenance overhead to Google, so you can focus on your workloads instead of infrastructure. Speaking of Infrastructure, most of the services that we covered our serverless. Now, this doesn't mean that there aren't any actual servers processing your data. Serverless means that servers or compute engine instances are obfuscated so that you don't have to worry about the Infrastructure. Cloud Dataproc isn't a serverless service because you were able to view and manage the underlying master and worker instances.
+
 
 ## <p align="center">Deployment Manager</p>
 
