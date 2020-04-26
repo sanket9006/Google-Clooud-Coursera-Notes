@@ -4,9 +4,17 @@
 
 Deployment manager uses a system of highly structured templates and configuration files to document the infrastructure in an easily readable and understandable format. Deployment manager conceals the actual Cloud API calls. So you don't need to write code and can focus on the definition of the infrastructure. In this module, we cover how to use deployment manager to automate the deployment of infrastructure, and how to use GCP marketplace to launch infrastructure solutions.
 
-Deployment Manager
+## <p align="center">Deployment Manager</p>
 
 Deployment Manager takes this one step further. Deployment Manager is an infrastructure deployment service that automates the creation and management of GCP resources for you. You just specify all the resources needed for your application in a declarative format and deploy your configuration. This deployment can be repeated over and over with consistent results and you can delete a whole deployment with one command or click.
+
+ By definition, an auto mode network automatically creates a subnetwork in each region. Therefore, I am setting the auto-create subnetworks property to true. 
+
+ Now there are other infrastructure automation tools in addition to Deployment Manager that you can use in GCP. You can also use Terraform, CHEF, Puppet, Ansible, or Packer. All of these tools allow you to treat your infrastructure like software, which helps you decrease costs, reduce risk, and deploy faster by capturing infrastructure as code.
+ 
+ Lab Intro: Automating the Infrastructure of Networks Using Deployment Manager or Terraform
+
+In this lab we're giving you two choices. You can deploy resources by using Deployment Manager or Terraform. Either way, you deploy an automotive network called my network with a firewall rule to allow HTTP, SSH, RDP, and ICMP traffic. You also deploy the VM instances shown in this network diagram. Again, you have the choice of deploying these resources with Deployment Manager or Terraform through two separate labs. You can complete either lab or even both.
 
 ## <p align="center">Elastic Google Cloud Infrastructure: Scaling and Automation </p>
 
