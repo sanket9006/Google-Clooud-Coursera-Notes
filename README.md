@@ -1,5 +1,8 @@
 # Google Clooud Coursera Notes
 
+## Elastic Google Cloud Infrastructure: Scaling and Automation
+## Week 2 -Module Overview
+
 ## <p align="center">Elastic Google Cloud Infrastructure: Scaling and Automation </p>
 
 ## <p align="center">Week 1 : Module Review </p>
