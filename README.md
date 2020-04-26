@@ -2,7 +2,11 @@
 
 ## <p align="center">Week 2 Module Overview </p>
 
+Deployment manager uses a system of highly structured templates and configuration files to document the infrastructure in an easily readable and understandable format. Deployment manager conceals the actual Cloud API calls. So you don't need to write code and can focus on the definition of the infrastructure. In this module, we cover how to use deployment manager to automate the deployment of infrastructure, and how to use GCP marketplace to launch infrastructure solutions.
 
+Deployment Manager
+
+Deployment Manager takes this one step further. Deployment Manager is an infrastructure deployment service that automates the creation and management of GCP resources for you. You just specify all the resources needed for your application in a declarative format and deploy your configuration. This deployment can be repeated over and over with consistent results and you can delete a whole deployment with one command or click.
 
 ## <p align="center">Elastic Google Cloud Infrastructure: Scaling and Automation </p>
 
