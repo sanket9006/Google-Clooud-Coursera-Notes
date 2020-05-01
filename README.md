@@ -1,5 +1,16 @@
 # Google Clooud Coursera Notes
 
+## <p align="center">Command line interface</p>
+
+The Google Cloud SDK is a set of tools that you use to manage your resources and your applications on GCP.
+
+These include the gcloud tool, which provides the main command line interface for Google Cloud platform products and services. There's also gsutil, which is for Google Cloud storage, and bq, which is for BigQuery.
+
+You can also install the SDK on your own computers, your laptop, your on premises servers, or virtual machines and other clouds.
+
+The SDK is also available as a docker image, which can be a really easy and clean way to work with it if your applications are containerized.
+
+
 Validate your hands-on GCP skills and advance your career with the Associate Cloud Engineer certification. Certification can help you gain credibility and give you an advantage in today’s highly competitive market. The Associate Cloud Engineer certification is for individuals who want to demonstrate their ability to deploy applications, monitor operations, and maintain cloud projects on Google Cloud Platform. It is recommended that you have at least 6 months of hands-on experience working with GCP. The exam will assess your ability to:
 
 Set up a cloud solution environment
