@@ -1,4 +1,27 @@
 # Google Clooud Coursera Notes
+
+Links to resources mentioned in this module:
+
+Google Cloud Pricing Overview:  https://cloud.google.com/pricing/
+
+Google Cloud Pricing Calculator:  https://cloud.google.com/products/calculator/
+
+Google’s Pricing philosophy: https://cloud.google.com/pricing/philosophy/
+
+Compute Engine Documentation:  https://cloud.google.com/compute/docs/
+
+Choosing the right compute option in GCP:  https://cloud.google.com/blog/products/gcp/choosing-the-right-compute-option-in-gcp-a-decision-tree
+
+Choosing a compute option: https://cloud.google.com/docs/choosing-a-compute-option
+
+Storage Classes:  https://cloud.google.com/storage/docs/storage-classes
+
+Cloud Storage Options:  https://cloud.google.com/storage-options/
+
+Load Balancing:  https://cloud.google.com/load-balancing/docs/load-balancing-overview
+
+
+
 ## <p align="center">Planning and configuring network resources</p>
 
 <p align="center">
