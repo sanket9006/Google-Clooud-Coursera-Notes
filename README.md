@@ -6,6 +6,14 @@ This section focuses on two levels of data storage concerns. The first-level con
 
 Relational databases are the kind that most people are familiar with. These databases store information in structured columns and rows, and data is retrieved is the SQL. Examples of this type of database are Cloud SQL and Cloud Spanner. The use cases for relational databases vary, but in general if you need information on drive and e-commerce site, or content management system, you may want to choose one of the more traditional relational database options
 
+Certain types of financial data also required a stricter structure of a relational database because that structure helps maintain data integrity. Non-relational databases store data in a much less structured format which is sometimes referred to as a Documents. Because of the less rigid structuring of the data, the format of incoming data can be changed over time
+
+Perhaps by adding additional information occasionally to newer records without affecting the integrity of any older data still using previous formats. Example of this type of database are Cloud Datastore and Cloud Bigtable. As you can see, Non-relational database use cases have some overlap with Relational database use cases. If you know you'll need to quickly iterate, or add a lot of features to a project, using a non-relational database can allow you to keep adding fields to support new features without having to rebuild the entire database each time.
+
+If you expect to really heavy data traffic, Cloud Bigtable is engineered to handle that kind of load. Another type of database storage is the Object database, where data is stored as binary large objects or blobs. An example of this type of database is Cloud Storage. If your computing needs involves storing a lot of images or other binary media, Cloud Storage is a logical choice for your data storage needs. Finally, we have the option of using a Warehouse Scale Database BigQuery. BigQuery also uses a SQL, but it's built specifically to handle the huge loads that real time data streaming, analytics, and reporting can place on a database.
+
+Cloud Storage let's you choose among four different types of storage classes. Regional, Multi-regional, Nearline, and Coldline. Here's one way to think about them. Multi-regional and Regional are for high-performance Object Storage. Nearline and Coldline are for backup and archival storage. Multi-regional storage is appropriate for storing frequently accessed data, Website content, interactive workloads, or data that's part of mobile and gaming applications. People use regional storage in contrast to store data close to their Compute Engine virtual Machines, or the Kubernetes Engine Clusters. This proximity gives better performance for data intensive computations
+
 ## <p align="center">Links to resources mentioned in this module:</p>
 
 
