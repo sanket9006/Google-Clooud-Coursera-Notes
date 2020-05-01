@@ -1,4 +1,11 @@
 # Google Clooud Coursera Notes
+## <p align="center">Planning and configuring network resources</p>
+
+<p align="center">
+ <img  src="https://github.com/sanket9006/Google-Clooud-Coursera-Notes/blob/master/ff.PNG">
+</p>
+
+
 
 ## <p align="center">Planning and configuring data storage</p>
 
