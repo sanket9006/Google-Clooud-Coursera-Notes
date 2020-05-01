@@ -1,7 +1,7 @@
 # Google Clooud Coursera Notes
 
 ## <p align="center">Planning and configuring data storage</p>
-![image](https://github.com/sanket9006/Google-Clooud-Coursera-Notes/blob/master/pp.PNG)
+<p align="center">![image](https://github.com/sanket9006/Google-Clooud-Coursera-Notes/blob/master/pp.PNG)</p>
 
 
 This section focuses on two levels of data storage concerns. The first-level concerns dynamic data that will be used for powering applications' reports. You'll need to decide which type of database is the best to use when storing that data. The second level concerns more static data. Think of images and files here
