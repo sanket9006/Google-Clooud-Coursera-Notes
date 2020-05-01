@@ -1,4 +1,11 @@
 # Google Clooud Coursera Notes
+
+## <p align="center">Planning and configuring data storage</p>
+
+This section focuses on two levels of data storage concerns. The first-level concerns dynamic data that will be used for powering applications' reports. You'll need to decide which type of database is the best to use when storing that data. The second level concerns more static data. Think of images and files here
+
+Relational databases are the kind that most people are familiar with. These databases store information in structured columns and rows, and data is retrieved is the SQL. Examples of this type of database are Cloud SQL and Cloud Spanner. The use cases for relational databases vary, but in general if you need information on drive and e-commerce site, or content management system, you may want to choose one of the more traditional relational database options
+
 ## <p align="center">Links to resources mentioned in this module:</p>
 
 
