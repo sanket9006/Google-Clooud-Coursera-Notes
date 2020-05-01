@@ -10,6 +10,7 @@ You can also install the SDK on your own computers, your laptop, your on premise
 
 The SDK is also available as a docker image, which can be a really easy and clean way to work with it if your applications are containerized.
 
+## <p align="center">Associate Cloud Engineer certification</p>
 
 Validate your hands-on GCP skills and advance your career with the Associate Cloud Engineer certification. Certification can help you gain credibility and give you an advantage in today’s highly competitive market. The Associate Cloud Engineer certification is for individuals who want to demonstrate their ability to deploy applications, monitor operations, and maintain cloud projects on Google Cloud Platform. It is recommended that you have at least 6 months of hands-on experience working with GCP. The exam will assess your ability to:
 
