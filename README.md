@@ -5,7 +5,7 @@
 
 
 <p align="center">
- <img  src="https://github.com/sanket9006/Google-Clooud-Coursera-Notes/blob/master/111.svg" width="200" height="100">
+ <img  src="https://github.com/sanket9006/Google-Clooud-Coursera-Notes/blob/master/111.svg" width="800" height="400">
 </p>
 <p align="center">
  <img  src="https://github.com/sanket9006/Google-Clooud-Coursera-Notes/blob/master/11.svg">
