@@ -4,22 +4,12 @@
 
 Region: us-central1
 Zone: us-central1-a
-Zone: us-central1-b
-Zone: us-central1-c
-Zone: us-central1-f
-Region: us-west1
-Zone: us-west1-a
-Zone: us-west1-b
-Zone: us-west1-c
-Region: us-east4
-Zone: us-east4-a
-Zone: us-east4-b
-Zone: us-east4-c
-Region: us-east1
-Zone: us-east1-b
-Zone: us-east1-c
-Zone: us-east1-d
 
+Zone: us-central1-b
+
+Zone: us-central1-c
+
+Zone: us-central1-f
 
 ## <p align="center">networking resources</p>
 
