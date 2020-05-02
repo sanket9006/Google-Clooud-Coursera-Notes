@@ -2,6 +2,10 @@
 
 ## <p align="center">App Engine and Cloud Functions</p>
 
+App Engine and Cloud Functions are GCP services you use when you don't want to maintain a special server yourself. 
+
+
+
 We'll first talk about App Engine. Other two App Engine environments, standard and flexible. Standard is the simpler. It offers a simpler deployment experience in a flexible environment and finer-grained auto-scaling. Like the standard environment, it also offers a free daily usage quota for the use of some services. What's sinctive about the standard environment is that low utilization applications might be able to run at no charge.
 
 
@@ -16,6 +20,11 @@ We'll first talk about App Engine. Other two App Engine environments, standard a
 <p align="center">
  <img  src="https://github.com/sanket9006/Google-Clooud-Coursera-Notes/blob/master/11.svg">
 </p>
+
+kubectl get - list resources
+kubectl describe - show detailed information about a resource
+kubectl logs - print the logs from a container in a pod
+kubectl exec - execute a command on a container in a pod
 
 A node is a worker machine in Kubernetes and may be a VM or physical machine, depending on the cluster. Multiple Pods can run on one Node.
 
