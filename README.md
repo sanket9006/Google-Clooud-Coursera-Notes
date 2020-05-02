@@ -1,5 +1,13 @@
 # Google Clooud Coursera Notes
 
+## <p align="center">Deploying and implementing data solutions</p>
+
+<p align="center">
+ <img  src="https://github.com/sanket9006/Google-Clooud-Coursera-Notes/blob/master/1111.PNG" width="800" height="400">
+</p>
+
+data storage and database options can be divided into groups several different ways. One way is by how the data is structured; relational, non-relational, etc. Another way is by usage. With some uses potentially a good fit for more than one option
+
 ## <p align="center">App Engine and Cloud Functions</p>
 
 App Engine and Cloud Functions are GCP services you use when you don't want to maintain a special server yourself. 
