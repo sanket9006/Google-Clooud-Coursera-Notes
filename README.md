@@ -2,13 +2,10 @@
 
 ## <p align="center">Region VS Zone</p>
 
-Region: us-central1
+    Region: us-central1
        Zone: us-central1-a
-
        Zone: us-central1-b
-
        Zone: us-central1-c
-
        Zone: us-central1-f
 
 ## <p align="center">networking resources</p>
