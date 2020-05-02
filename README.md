@@ -1,5 +1,11 @@
 # Google Clooud Coursera Notes
 
+## <p align="center">App Engine and Cloud Functions</p>
+
+We'll first talk about App Engine. Other two App Engine environments, standard and flexible. Standard is the simpler. It offers a simpler deployment experience in a flexible environment and finer-grained auto-scaling. Like the standard environment, it also offers a free daily usage quota for the use of some services. What's sinctive about the standard environment is that low utilization applications might be able to run at no charge.
+
+
+
 
 ## <p align="center">Containers</p>
 
@@ -10,6 +16,8 @@
 <p align="center">
  <img  src="https://github.com/sanket9006/Google-Clooud-Coursera-Notes/blob/master/11.svg">
 </p>
+
+A node is a worker machine in Kubernetes and may be a VM or physical machine, depending on the cluster. Multiple Pods can run on one Node.
 
 Containers give you an invisible box around your code and its dependencies, with limited access to its own partition of the file system and hardware. It only requires a few system costs to create and starts as quickly as a process. All you need on each host is an OS kernel that supports containers in a container runtime
 Links to resources mentioned in this module:
