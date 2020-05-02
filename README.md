@@ -1,5 +1,34 @@
 # Google Clooud Coursera Notes
 
+## <p align="center">Region VS Zone</p>
+
+Region: us-central1
+Zone: us-central1-a
+Zone: us-central1-b
+Zone: us-central1-c
+Zone: us-central1-f
+Region: us-west1
+Zone: us-west1-a
+Zone: us-west1-b
+Zone: us-west1-c
+Region: us-east4
+Zone: us-east4-a
+Zone: us-east4-b
+Zone: us-east4-c
+Region: us-east1
+Zone: us-east1-b
+Zone: us-east1-c
+Zone: us-east1-d
+
+
+## <p align="center">networking resources</p>
+
+First, let's go over some VPC network review topics. Here's something that surprises a lot of people who are new to GCP. The Virtual Private Cloud networks that I defined have global scope. They can have subnets in any GCP region worldwide and subnets can span any of the zones that make up a region. You can also have resources in different zones on the same subnet
+
+<p align="center">
+ <img  src="https://github.com/sanket9006/Google-Clooud-Coursera-Notes/blob/master/jj.PNG" width="800" height="400">
+</p>
+
 ## <p align="center">Deploying and implementing data solutions</p>
 
 <p align="center">
