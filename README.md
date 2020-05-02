@@ -3,12 +3,21 @@
 
 ## <p align="center">Containers</p>
 
+
+<p align="center">
+ <img  src="https://github.com/sanket9006/Google-Clooud-Coursera-Notes/blob/master/111.svg">
+</p>
+<p align="center">
+ <img  src="https://github.com/sanket9006/Google-Clooud-Coursera-Notes/blob/master/11.svg">
+</p>
+
 Containers give you an invisible box around your code and its dependencies, with limited access to its own partition of the file system and hardware. It only requires a few system costs to create and starts as quickly as a process. All you need on each host is an OS kernel that supports containers in a container runtime
 Links to resources mentioned in this module:
 
 Kubernetes makes it easy to orchestrate many containers on many hosts, scale them as microservices and deploy roll-outs and rollbacks. Now, let's have a closer look at Kubernetes Engine clusters, and why you might want to deploy a containerized application using pods. At its highest level, Kubernetes is a set of APIs that you can use to deploy containers on a set of nodes called the cluster.
 
 The system is divided into a set of master components that run as the control plane and a set of nodes that run containers. In Kubernetes, a node represents a computing instinct like a machine. In Google Cloud, nodes are virtual machines running in Compute Engine. You can describe a set of applications and how they should interact with each other, and Kubernetes figures out how to make that happen. Then you deploy containers on nodes using a rapper on one or more containers called a pod. A pod is the smallest unit in Kubernetes that you create or deploy. A pod represents a running process on your cluster as either a component of your application or an entire app. Generally, you only have one container per pod, but if you have multiple containers with a hard dependency, you can package them into a single pod in shared networking and storage. The pod provides a unique network IP and a set of ports for your containers, and options that govern how container should run. Containers inside a pod can communicate with one another using localhost and ports that remained fixed as they've started and stopped on different nodes. A deployment represents a group of replicas of the same pod and keeps the pods running even when nodes, they run on fail. It could represent a component of an application or an entire application. In this case, it's the engine X web server. To see the running engine X pods, run the command kubectl get pods.
+
 Google Cloud Pricing Overview:  https://cloud.google.com/pricing/
 
 Google Cloud Pricing Calculator:  https://cloud.google.com/products/calculator/
